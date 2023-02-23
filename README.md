@@ -1,5 +1,5 @@
 # Minhas-Leituras-CRUD-Kivy-SQLite3-Python3
-Organizador de Leituras, nunca mais se perca em sua leituras de seus livros favoritos, um App Cross-Platform
+Organizador de Leituras, nunca mais se perca nas leituras de seus livros favoritos, um App Cross-Platform
 
 CREATE - Insira seus Livros, Autor Quantidade de Páginas e Data de Leitura
 READ - Seleciona o registro na base de dados
@@ -11,7 +11,7 @@ Projeto orientado a objetos com a syntax do Kivy Framework
 
 Possui basicamente três arquivos:
 
-'gui.kv': este arquivo para interface gráfica de usuário
+'gui.kv': este arquivo consiste na interface gráfica de usuário
 
 'main.py': outro arquivo para o código principal 
 
