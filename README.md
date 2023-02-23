@@ -9,9 +9,12 @@ DELETE - Exclui o registro pelo id passado como parâmetro
 CRUD completo e funcional com tecnologia de persistência de dados
 Projeto orientado a objetos com a syntax do Kivy Framework
 
-Possui basicamente três arquivos, 
+Possui basicamente três arquivos:
+
 'gui.kv': este arquivo para interface gráfica de usuário
+
 'main.py': outro arquivo para o código principal 
+
 'org_livros.db': um terceiro arquivo para a base de dados.
 
 Estrutura da Tabela:
