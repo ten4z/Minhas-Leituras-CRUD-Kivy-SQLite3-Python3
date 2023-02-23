@@ -2,8 +2,11 @@
 Organizador de Leituras, nunca mais se perca nas leituras de seus livros favoritos, um App Cross-Platform
 
 CREATE - Insira seus Livros, Autor Quantidade de Páginas e Data de Leitura
+
 READ - Seleciona o registro na base de dados
+
 UPDADE - Atualiza o registro no banco de dados
+
 DELETE - Exclui o registro pelo id passado como parâmetro
 
 CRUD completo e funcional com tecnologia de persistência de dados
