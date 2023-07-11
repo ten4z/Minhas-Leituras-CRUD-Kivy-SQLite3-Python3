@@ -1,7 +1,7 @@
 # Minhas-Leituras-CRUD-Kivy-SQLite3-Python3
 Organizador de Leituras, nunca mais se perca nas leituras de seus livros favoritos, um App Cross-Platform
 
-ATENÇÃO: SE ESTE APP TE AJUDAR EM ALGUMA COISA MARQUE COM ESTRELAS VIU LADIES AND GENTLEMANS.
+ATENÇÃO LADIES E GENTLEMANS: SE ESTE APP TE AJUDAR EM ALGUMA COISA MARQUE COM ESTRELAS VLW!
 
 CREATE - Insira seus Livros, Autor Quantidade de Páginas e Data de Leitura
 
