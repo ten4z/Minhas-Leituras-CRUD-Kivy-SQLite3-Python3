@@ -22,10 +22,6 @@ Possui basicamente três arquivos:
 
 'org_livros.db': um terceiro arquivo para a base de dados.
 
-
-Meu artigo sobre este repositório:
-http://josielsoares.com/artigos/kivy/crud-completo-em-kivy-e-sqlite3.php
-
 Estrutura da Tabela:
 sql = """ CREATE TABLE IF NOT EXISTS tb_livros( id INTEGER PRIMARY KEY AUTOINCREMENT, titulo TEXT (50) NOT NULL, autor TEXT (50), data_leitura DATE, pagina_atual INTEGER, n_paginas INTEGER)"""
 
